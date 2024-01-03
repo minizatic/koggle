@@ -7,15 +7,14 @@ body, html {
   height: 100%;
 }
 .dice {
-  aspect-ratio: 1;
   border: 1px solid black;
   border-radius: 1rem;
   text-align: center;
-  font-size: 5rem;
+  font-size: 3rem;
+  width: 25%;
 }
 .timer {
   text-align: center;
-  height: 100%;
 }
 .timer-content {
   border: 1px solid black;
@@ -23,7 +22,7 @@ body, html {
   color: white;
   height: 5rem;
   line-height: 5rem;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 #timer-progress {
   width: 100%;
